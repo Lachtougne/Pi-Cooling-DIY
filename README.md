@@ -24,3 +24,8 @@ Welcome to `Pi-Cooling-DIY`, a DIY cooling solution for Raspberry Pi 4 (and soon
   - Planned for Pi 5 4GB (arriving April 8, 2025), with WLED and 144 NeoPixels for a glowing arcade machine.
 
 **Conclusion**: `Pi-Cooling-DIY` is an accessible DIY project that shows how a bit of salvaging and ingenuity can compete with expensive solutions. Try it out, and share your own setups! #RaspberryPi #DIY #Cooling
+
+## Photos of the Setup
+
+![DIY Cooling Setup](IMG_20250325_025157419_HDR.jpg)  
+*My DIY cooling setup with two Be Quiet! 92mm fans and a salvaged PC heatsink, mounted under a table for space and dust protection.*
