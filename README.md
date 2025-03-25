@@ -25,6 +25,8 @@ Welcome to `Pi-Cooling-DIY`, a DIY cooling solution for Raspberry Pi 4 (and soon
 
 **Conclusion**: `Pi-Cooling-DIY` is an accessible DIY project that shows how a bit of salvaging and ingenuity can compete with expensive solutions. Try it out, and share your own setups! #RaspberryPi #DIY #Cooling
 
+- Tested on a Pi 4 1GB overclocked to 2 GHz. CSV available in the repo ([historique_centralise.csv](historique_centralise.csv)).
+
 ## Photos of the Setup
 
 ![DIY Cooling Setup](IMG_20250325_025157419_HDR.jpg)  
