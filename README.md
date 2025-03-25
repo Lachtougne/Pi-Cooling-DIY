@@ -29,3 +29,5 @@ Welcome to `Pi-Cooling-DIY`, a DIY cooling solution for Raspberry Pi 4 (and soon
 
 ![DIY Cooling Setup](IMG_20250325_025157419_HDR.jpg)  
 *My DIY cooling setup with two Be Quiet! 92mm fans and a salvaged PC heatsink, mounted under a table for space and dust protection.*
+
+"The dashboard.py script is a Python tool to monitor Recalbox performance on a Raspberry Pi. It tracks CPU usage, temperatures, RAM, and core imbalances in real-time, with a GUI built using CustomTkinter and Matplotlib. It also logs data to a CSV file (e.g., historique_centralise.csv) for analysis."
