@@ -1,35 +1,25 @@
-# Pi-Cooling-DIY – DIY Raspberry Pi Cooling: 25°C for ~$30  
-**Repository**: `Pi-Cooling-DIY`
+# Pi 4 under Recalbox at 25°C: My DIY Cooling Setup 🌀
 
-**Summary**  
-Welcome to `Pi-Cooling-DIY`, a DIY cooling solution for Raspberry Pi 4 (and soon Pi 5). With a budget of around $30 (and some salvaged parts), this setup achieves performance comparable to much pricier commercial solutions. Here are the details:  
+## Introduction
+This is my DIY cooling setup for a Raspberry Pi 4 running Recalbox: an ultra-cool retro gaming console that hits a **max of 25°C** under load (PS1 games)! Using two Be Quiet! 92 mm fans, a simple heatsink, and an open structure, this setup outperforms commercial cases (40-75°C) while staying quiet (20-25 dB) and affordable (~$20-50). Perfect for retro gaming enthusiasts looking to optimize their Pi!
 
-- **Thermal Performance**:  
-  - 25.9°C max (average 25°C) under load (*Sega Rally*, 42.3% CPU, overclocked to 2 GHz).  
-  - Idle at 22-23°C.  
-  - Comparison: Commercial solutions under $40 (ICE Tower, Argon ONE) reach 45-65°C under load; at $100 (Pironman 5), 40-45°C; at $150 (custom watercooling), 26-28°C. This setup is 15-40°C more efficient than solutions under $100.
+## Materials Used
+- **Raspberry Pi 4 (1 GB)**: Overclocked to 2 GHz.
+- **Fans**: 2x Be Quiet! 92 mm (1900 RPM, 50-60 CFM, 20-25 dB), powered by an external 12 V transformer.
+- **Heatsink**: Aluminum 40x40x10 mm, applied with MAX-6 thermal paste.
+- **Support**: Plexiglass plate, fixed with M3 screws and spacers.
 
-- **Transparent Budget**:  
-  - Purchases: ~$30 (two Be Quiet! 92mm fans, Y-splitter, MX-6 thermal paste).  
-  - Salvaged: PC heatsink (cut to size), bolts/nuts, external 9-12V transformer ($0).  
-  - Without salvaged parts, estimated cost: ~$45.  
-  - 5x cheaper than a custom watercooling setup ($150) for nearly identical performance (26-28°C), and 7-16x cheaper than extreme setups ($200-$500, 20-23°C).
+## Results
+- **Temperatures**: 21-25°C max under light load (PS1 games on Recalbox), compared to 40-75°C for commercial cases.
+- **Noise**: 20-25 dB, much quieter than standard case fans (30-40 dB).
+- **Cost**: Around $20-50 (depending on whether parts are salvaged).
 
-- **Quiet Operation**:  
-  - Be Quiet! 92mm fans at 9V (2000 RPM max at 12V), quieter than 30-40mm fans in commercial solutions.  
-  - No throttling (threshold at 80°C), even with overclocking.
+## Photos
+![Full Setup](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Photos/Setup%20complet.jpg?raw=true)
+![Side View](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Photos/Vue%20de%20c%C3%B4t%C3%A9.jpg?raw=true)
 
-- **Tests**:  
-  - Tested on a Pi 4 1GB overclocked to 2 GHz. CSV available in the repo (e.g., *Sega Rally*: 25.9°C max, 42.3% CPU).  
-  - Planned for Pi 5 4GB (arriving April 8, 2025), with WLED and 144 NeoPixels for a glowing arcade machine.
+## Data
+Check out the raw data from my tests: [Pi4_Recalbox_Temps.csv](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Pi4_Recalbox_Temps.csv)
 
-**Conclusion**: `Pi-Cooling-DIY` is an accessible DIY project that shows how a bit of salvaging and ingenuity can compete with expensive solutions. Try it out, and share your own setups! #RaspberryPi #DIY #Cooling
-
-- Tested on a Pi 4 1GB overclocked to 2 GHz. CSV available in the repo ([historique_centralise.csv](historique_centralise.csv)).
-
-## Photos of the Setup
-
-![DIY Cooling Setup](IMG_20250325_025157419_HDR.jpg)  
-*My DIY cooling setup with two Be Quiet! 92mm fans and a salvaged PC heatsink, mounted under a table for space and dust protection.*
-
-"The dashboard.py script is a Python tool to monitor Recalbox performance on a Raspberry Pi. It tracks CPU usage, temperatures, RAM, and core imbalances in real-time, with a GUI built using CustomTkinter and Matplotlib. It also logs data to a CSV file (e.g., historique_centralise.csv) for analysis."
+## Conclusion
+This setup is simple, effective, and perfect for a quiet, cool Recalbox console. If you have questions or ideas to improve it, feel free to leave a comment or open an issue! 😊
