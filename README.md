@@ -15,8 +15,8 @@ This is my DIY cooling setup for a Raspberry Pi 4 running Recalbox: an ultra-coo
 - **Cost**: Around $20-50 (depending on whether parts are salvaged).
 
 ## Photos
-![Full Setup](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/IMG_20250325_025157419_HDR.jpg?raw=true)
-![Side View](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/IMG_20250325_025157452_HDR.jpg.jpg?raw=true)
+![Full Setup](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Setup_complet.jpg?raw=true)
+![Side View](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Vue_de_cote.jpg?raw=true)
 
 ## Data
 Check out the raw data from my tests: [Pi4_Recalbox_Temps.csv](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Pi4_Recalbox_Temps.csv)
