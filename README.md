@@ -10,7 +10,7 @@ This is my DIY cooling setup for a Raspberry Pi 4 running Recalbox: an ultra-coo
 - **Fans**: 2x Be Quiet! Pure wings II 92 mm (1900 RPM, 50-60 CFM, 20-25 dB), powered by an external 12 V transformer.
 - **Heatsink**: Aluminum 40x40x10 mm, applied with MAX-6 thermal paste.
 - **Support**: Plexiglass plate, fixed with M3 screws and spacers.
-- **12-volt transformer**: Allows you to power bquiet! without going through the Raspberry Pi
+- **12-volt transformer**: Allows you to power bequiet! without going through the Raspberry Pi
 
 ![Dashboard](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Dashboard.png?raw=true)
 Screen-shot with PI 4 1Go
