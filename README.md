@@ -11,6 +11,9 @@ This is my DIY cooling setup for a Raspberry Pi 4 running Recalbox: an ultra-coo
 - **Heatsink**: Aluminum 40x40x10 mm, applied with MAX-6 thermal paste.
 - **Support**: Plexiglass plate, fixed with M3 screws and spacers.
 - **12-volt transformer**: Allows you to power bquiet! without going through the Raspberry Pi
+
+![Dashboard](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Dashboard.png?raw=true)
+
 ## Results
 - **Temperatures**: 21-25°C max under light load (PS1 games on Recalbox), compared to 40-75°C for commercial cases.
 - **Noise**: 20-25 dB, much quieter than standard case fans (30-40 dB).
