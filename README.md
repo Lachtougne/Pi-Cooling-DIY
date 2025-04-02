@@ -13,7 +13,7 @@ This is my DIY cooling setup for a Raspberry Pi 4 running Recalbox: an ultra-coo
 - **12-volt transformer**: Allows you to power bequiet! without going through the Raspberry Pi
 
 ![Dashboard](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Dashboard.png?raw=true)
-Screen-shot with PI 4 1Go
+Screen-shot with PI 4 1Go from my home Dashboard
 
 ## Results
 - **Temperatures**: 21-25°C max under light load (PS1 games on Recalbox), compared to 40-75°C for commercial cases.
