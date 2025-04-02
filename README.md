@@ -2,7 +2,7 @@
 
 ## Introduction
 This is my DIY cooling setup for a Raspberry Pi 4 running Recalbox: an ultra-cool retro gaming console that hits a **max of 25°C** under load (PS1 games)! Using two Be Quiet! 92 mm fans, a simple heatsink, and an open structure, this setup outperforms commercial cases (40-75°C) while staying quiet (20-25 dB) and affordable (~$20-40). Perfect for retro gaming enthusiasts looking to optimize their Pi!
-
+## Photo
 ![Full Setup](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Setup_pi_4.jpg?raw=true)
 
 ## Materials Used
@@ -15,9 +15,6 @@ This is my DIY cooling setup for a Raspberry Pi 4 running Recalbox: an ultra-coo
 - **Temperatures**: 21-25°C max under light load (PS1 games on Recalbox), compared to 40-75°C for commercial cases.
 - **Noise**: 20-25 dB, much quieter than standard case fans (30-40 dB).
 - **Cost**: Around 20-40$ (depending on whether parts are salvaged).
-
-## Photos
-![Side View](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Vue_de_cote.jpg?raw=true)
 
 ## Data
 Check out the raw data from my tests: [historique_centralise.csv](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/historique_centralise.csv)
