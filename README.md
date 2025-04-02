@@ -19,7 +19,7 @@ This is my DIY cooling setup for a Raspberry Pi 4 running Recalbox: an ultra-coo
 ![Side View](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Vue_de_cote.jpg?raw=true)
 
 ## Data
-Check out the raw data from my tests: [Pi4_Recalbox_Temps.csv](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/historique_centralise.csv)
+Check out the raw data from my tests: [historique_centralise.csv](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/historique_centralise.csv)
 
 ## Conclusion
 This setup is simple, effective, and perfect for a quiet, cool Recalbox console. If you have questions or ideas to improve it, feel free to leave a comment or open an issue! 😊
