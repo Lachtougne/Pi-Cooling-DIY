@@ -5,14 +5,14 @@ This is my DIY cooling setup for a Raspberry Pi 4 running Recalbox: an ultra-coo
 
 ## Materials Used
 - **Raspberry Pi 4 (1 GB)**: Overclocked to 2 GHz.
-- **Fans**: 2x Be Quiet! 92 mm (1900 RPM, 50-60 CFM, 20-25 dB), powered by an external 12 V transformer.
+- **Fans**: 2x Be Quiet! Pure wings II 92 mm (1900 RPM, 50-60 CFM, 20-25 dB), powered by an external 12 V transformer.
 - **Heatsink**: Aluminum 40x40x10 mm, applied with MAX-6 thermal paste.
 - **Support**: Plexiglass plate, fixed with M3 screws and spacers.
-
+- **12-volt transformer**: Allows you to power bquiet! without going through the Raspberry Pi
 ## Results
 - **Temperatures**: 21-25°C max under light load (PS1 games on Recalbox), compared to 40-75°C for commercial cases.
 - **Noise**: 20-25 dB, much quieter than standard case fans (30-40 dB).
-- **Cost**: Around $20-50 (depending on whether parts are salvaged).
+- **Cost**: Around 20-40$ (depending on whether parts are salvaged).
 
 ## Photos
 ![Full Setup](https://github.com/Lachtougne/Pi-Cooling-DIY/blob/main/Setup_complet.jpg?raw=true)
